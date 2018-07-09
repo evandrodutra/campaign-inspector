@@ -9,4 +9,7 @@ require_relative 'campaign_inspector/comparator'
 require_relative 'campaign_inspector/version'
 
 module CampaignInspector
+  def self.call(*args)
+    Comparator.new(*args).run
+  end
 end
