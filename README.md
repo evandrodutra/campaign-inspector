@@ -1,5 +1,7 @@
 # Campaign Inspector
 
+[![Build Status](https://travis-ci.org/evandrodutra/campaign-inspector.svg?branch=master)](https://travis-ci.org/evandrodutra/campaign-inspector)
+
 Simple way to detect discrepancies between local and remote campaigns states.
 
 ## Requirements
