@@ -8,6 +8,7 @@ Simple way to detect discrepancies between local and remote campaigns states.
 ## Requirements
 
 - ruby 2.4.1
+- bundler ~> 1.16
 
 ## Setup
 
