@@ -23,5 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'pry'
   spec.add_development_dependency 'rake', '~> 12.0'
   spec.add_development_dependency 'rspec', '~> 3.7'
+
+  spec.add_runtime_dependency 'hashdiff', '~> 0.3.7'
   spec.add_runtime_dependency 'typhoeus', '~> 1.3.0'
 end
