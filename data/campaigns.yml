@@ -1,0 +1,25 @@
+---
+- !ruby/struct:CampaignInspector::Campaign
+  id: 1
+  job_id: 10
+  status: active
+  external_reference: 1
+  ad_description: Senior Ruby developer
+- !ruby/struct:CampaignInspector::Campaign
+  id: 2
+  job_id: 20
+  status: paused
+  external_reference: 2
+  ad_description: Front-end developer
+- !ruby/struct:CampaignInspector::Campaign
+  id: 3
+  job_id: 30
+  status: deleted
+  external_reference: 3
+  ad_description: Data engineer
+- !ruby/struct:CampaignInspector::Campaign
+  id: 4
+  job_id: 40
+  status: paused
+  external_reference:
+  ad_description: CTO
