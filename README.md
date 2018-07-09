@@ -1,6 +1,7 @@
 # Campaign Inspector
 
 [![Build Status](https://travis-ci.org/evandrodutra/campaign-inspector.svg?branch=master)](https://travis-ci.org/evandrodutra/campaign-inspector)
+[![Maintainability](https://api.codeclimate.com/v1/badges/4be044922da536614f7e/maintainability)](https://codeclimate.com/github/evandrodutra/campaign-inspector/maintainability)
 
 Simple way to detect discrepancies between local and remote campaigns states.
 
